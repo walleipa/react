@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+  font-size: 0.12rem;
+}
+ul {
+    width: 98%;
+    margin: 0;
+    padding: 0.1rem 1%;
+    list-style: none;
+    background-color: black;
+    color: #fff;
+    display: inline-flex;
+    justify-content: space-between;
+}
+ul li {
+    padding: 0.02rem 0.02rem;
+    
+    flex: 0 0 auto;
+}
+ul a {
+    color:#fff;
+}
+img {
+    width: 100%;
+    vertical-align: top;
+}
